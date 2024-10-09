@@ -41,7 +41,6 @@ This project aims to create a robust platform that integrates **Azure Service Fa
 
 - **Backend:**
   - Python (FastAPI)
-  - C# (.NET Core)
 
 - **AI/ML:**
   - Python (Transformers, TensorFlow, PyTorch, scikit-learn)
