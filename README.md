@@ -269,12 +269,6 @@ This project is licensed under the [Apache2.0](LICENSES).
 
 ---
 
-## 📝 Contact
-
-For any inquiries or support, please contact [your.email@example.com](mailto:your.email@example.com).
-
----
-
 ✨ **Thank you for checking out the Azure Service Fabric with AI Integration project!** ✨
 
 ```
